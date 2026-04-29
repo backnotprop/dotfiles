@@ -1,0 +1,13 @@
+# Light/dark variants — which one is active is controlled by window-theme below.
+# Toggled via ~/dotfiles/ghostty/toggle-theme.sh
+theme = light:XcodeLightHC,dark:Kanagawa Dragon
+window-theme = dark
+
+split-divider-color = #353448
+unfocused-split-fill = #181616
+unfocused-split-opacity = 0.6
+
+shell-integration = zsh
+
+keybind = shift+enter=text:\n
+keybind = cmd+shift+l=reload_config

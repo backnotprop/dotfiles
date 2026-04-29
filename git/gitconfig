@@ -1,0 +1,7 @@
+[user]
+	email = mdramos8@gmail.com
+	name = Michael Ramos
+[pull]
+	ff = true
+[url "git@github.com:"]
+	insteadOf = https://github.com/
