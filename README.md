@@ -46,6 +46,7 @@ After `install.sh`:
 
 | Alias | What it does |
 |-------|-------------|
+| `cx` | Start Claude, skip permissions |
 | `cc` | Continue last Claude session, skip permissions |
 | `cg` | Start Claude with system understanding prompt |
 | `cgp <prompt>` | Start Claude with custom prompt |

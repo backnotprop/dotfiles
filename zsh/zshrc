@@ -45,6 +45,7 @@ setopt SHARE_HISTORY APPEND_HISTORY INC_APPEND_HISTORY EXTENDED_HISTORY
 alias history='history 0'
 
 # Claude
+alias cx='claude --dangerously-skip-permissions'
 alias cc='claude --continue --dangerously-skip-permissions'
 alias cg='claude --dangerously-skip-permissions "Gain a complete end-to-end understanding of the system for any backend component or app or server, all the way through the frontend and how data flows between"'
 cgp() {
