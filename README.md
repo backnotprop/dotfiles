@@ -16,7 +16,7 @@ Backs up existing files to `.bak`, then symlinks everything into place.
 ```
 dotfiles/
 ├── zsh/
-│   ├── zshrc              # shell config (nvm, pyenv, rbenv, pnpm, bun, history, aliases)
+│   ├── zshrc              # shell config (fnm, history, aliases)
 │   ├── zprofile           # login shell (homebrew)
 │   └── p10k.zsh           # powerlevel10k prompt theme
 ├── ghostty/

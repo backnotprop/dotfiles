@@ -1,6 +1,8 @@
 [user]
 	email = mdramos8@gmail.com
 	name = Michael Ramos
+[init]
+	defaultBranch = main
 [pull]
 	ff = true
 [url "git@github.com:"]
